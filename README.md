@@ -1,1 +1,1 @@
-# genetic-algo
+# Genetic Algorithm Implementation
